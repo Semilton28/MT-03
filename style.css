@@ -1,5 +1,10 @@
 Body{
-   background-color: lightblue;
-    color: black;
-
+   background-color: rgb(125, 223, 255);
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(to right, rgb(255, 0, 0), rgb(20, 6, 151));
+    background-image: linear-gradient(to left, rgb(255, 0, 0), rgb(20, 6, 151));
+    
+}
+.moto{
+    width: 10000 px;
 }
